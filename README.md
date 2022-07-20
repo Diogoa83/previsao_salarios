@@ -21,7 +21,7 @@
 
 ## 💻 Projeto:
 
-Aplicação desenvolvida para demonstração com o intuito de....
+Aplicação desenvolvida para demonstração com o intuito de apredizado pessoal e profissional
 
 - Objetivo:
 
@@ -35,10 +35,9 @@ Aplicação desenvolvida para demonstração com o intuito de....
 
 ## ✨ Tecnologias:
 
-- [x] Javascript
-- [x] Typescript
-- [x] Node.js
-- [x] React.js
+- [x] Python
+- [x] Machine Learn
+- [x] Estatistica
 
 
 ## ⚙️ Rodando o Projeto:
