@@ -24,6 +24,7 @@
 Aplicação desenvolvida para demonstração com o intuito de apredizado pessoal e profissional
 
 - Objetivo:
+- > :construction: Projeto em construção :construction:
 
 ➡️ Clonar o site proposto no link a seguir => [Link](https://www.custream.com/d7246215-e4bc-46d5-ba26-d8a4d78c54e0)
 
